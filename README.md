@@ -5,11 +5,11 @@ Comp Sci
 
 # **Who Am I** <h1>
 
-Family and Group Ideas https://github.com/faith-ly6/PromotionalWebsite.github.io#family-and-group-ideas- 
+__Family and Group Ideas__ https://github.com/faith-ly6/PromotionalWebsite.github.io#family-and-group-ideas- 
 
-Personal Ideas https://github.com/faith-ly6/PromotionalWebsite.github.io#personal-ideas-
+__Personal Ideas__ https://github.com/faith-ly6/PromotionalWebsite.github.io#personal-ideas-
 
-Life At School Ideas https://github.com/faith-ly6/PromotionalWebsite.github.io#life-at-school-ideas-
+__Life At School Ideas__ https://github.com/faith-ly6/PromotionalWebsite.github.io#life-at-school-ideas-
 
 ---
 
@@ -28,7 +28,8 @@ Life At School Ideas https://github.com/faith-ly6/PromotionalWebsite.github.io#l
  - [x] Nick name(s): Feifei, Fei
  - [x] Culture & Customs: Conservative, Age and Experience Hierarchy, emphasis on Education 
  - [x] Religion & Customs: Bowing to respect, Filial Piety, Buddism
- - [ ] Cultural Food (i.e. images and videos)
+ - [ ] Cultural Food (i.e. images and videos): Dim sum, Pho, Moon Cakes, Spring Rolls, Onion Cakes
+    ![Dim Sum](optimized-image.jpeg)
  - [x] Cultural Celebrations: Tết, Lunar New Year (lanterns, lion dances, dragons, firecrackers, feasts, red envelopes)
 
 ---
