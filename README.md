@@ -5,7 +5,10 @@ Comp Sci
 
 Who Am I
 
-Family and Group Ideas
+---
+
+**Family and Group Ideas**
+
  - [x] Nationality: Canadian
  - [x] Ethnicity: Vietnamese-Chinese
  - [ ] Country (i.e. image, map image)
@@ -21,7 +24,11 @@ Family and Group Ideas
  - [x] Religion & Customs: Bowing to respect, Filial Piety, Buddism
  - [ ] Cultural Food (i.e. images and videos)
  - [x] Cultural Celebrations: Tết, Lunar New Year (lanterns, lion dances, dragons, firecrackers, feasts, red envelopes)
-Personal Ideas
+
+---
+
+**Personal Ideas**
+
  - [x] Hobbies: Reading, Drawing
  - [ ] ~~Sports~~ 
  - [ ] ~~Habits~~
@@ -46,7 +53,11 @@ Personal Ideas
  - [x] Birthdate: February 21, 2006
  - [x] Age: 16
  - [ ] ~~Other Ideas~~
-*Life at School Ideas*
+
+ ---
+
+**Life at School Ideas**
+
  - [x] How are you involved at QE in clubs, teams, or groups?: Hanging out with friends, attending school events and classes
  - [x] How are you academic?: Attend school and study
  - [x] Subjects you have high grades in: Social Studies, Chemistry, Mathematics, French Second Language, Cantonese 
