@@ -47,9 +47,9 @@ __Life At School Ideas__ https://github.com/faith-ly6/PromotionalWebsite.github.
  - [ ] ~~interpersonal skills: communication, nurturing others, protecting others~~
  - [x] Music: Pop, K-pop, C-pop, BGM, Classical, Intrumental, Orchestral, Electronic, Punk Rock, Rock, Jazz
 
-      <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/4hZJADhofuk?list=PLICBWC0C8RKUVPhueflBI4T3n_2GEjg32"
+      <a href="http://www.youtube.com/watch?feature=player_embedded&v=4hZJADhofuk?list=PLICBWC0C8RKUVPhueflBI4T3n_2GEjg32"
          target="_blank">
-      <img src="http://img.youtube.com/vi/https://youtu.be/4hZJADhofuk?list=PLICBWC0C8RKUVPhueflBI4T3n_2GEjg32/0.jpg"
+      <img src="http://img.youtube.com/vi/4hZJADhofuk?list=PLICBWC0C8RKUVPhueflBI4T3n_2GEjg32/0.jpg"
            alt="Current BGM Favourite"
            width="240"
            height="180"
@@ -61,7 +61,9 @@ __Life At School Ideas__ https://github.com/faith-ly6/PromotionalWebsite.github.
  - [ ] ~~Creating music with instruments or code~~
  - [ ] ~~Listening to music for entertainment~~
  - [ ] Memes illustrating your humor (appropriate for school): 
+
       ![Meme](https://i.pinimg.com/236x/11/f3/fe/11f3fe2894fa345b61846b41b2f007bd.jpg) 
+      
  - [ ] ~~Defining Experiences: major life events you want to share~~
  - [ ] ~~Other Defining Experiences: ideas for any part of your life~~
  - [x] Family and Caregivers: Mom, Dad, Brother (younger)
