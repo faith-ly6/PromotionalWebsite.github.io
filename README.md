@@ -51,22 +51,72 @@ __Life At School Ideas__ https://github.com/faith-ly6/PromotionalWebsite.github.
  - [x] Memory: recognizing patterns, communication skills about ideas
  - [ ] ~~emotional skills: communicating personal emotion to others verbally and nonverbally, changing behavior based on others' emotions~~
  - [ ] ~~interpersonal skills: communication, nurturing others, protecting others~~
- - [x] Music: Pop, K-pop, C-pop, BGM, Classical, Intrumental, Orchestral, Electronic, Punk Rock, Rock, Jazz
+ - [x] Music: Pop, K-pop, C-pop, J-pop, Viet-pop, FR-pop, BGM, Classical, Orchestral, Electronic, Rock, Jazz
 
- <iframe width="420" height="315"
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/UtKzID8u9kM">
+</iframe>
+Current Pop Favourite
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/bLgU4PTkJXI">
+</iframe>
+Current K-pop Favourite
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/VWUKgg0LtCk">
+</iframe>
+Current Mandarin C-pop Favourite
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/h2-dP-W1gtE">
+</iframe>
+Current Cantonese C-pop Favourite
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/_lap6dzSUc">
+</iframe>
+Current J-pop Favourite
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/5shCRyS_qSk">
+</iframe>
+Current Viet-pop Favourite
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed//h_ls02YBMBg">
+</iframe>
+Current FR-pop Favourite
+
+<iframe width="420" height="315"
 src="https://www.youtube.com/embed/4hZJADhofuk">
 </iframe>
+Current BGM Favourite
 
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=4hZJADhofuk?list=PLICBWC0C8RKUVPhueflBI4T3n_2GEjg32"
-   target="_blank">
-<img src="http://img.youtube.com/vi/4hZJADhofuk?list=PLICBWC0C8RKUVPhueflBI4T3n_2GEjg32/0.jpg"
-     alt="Current BGM Favourite"
-     width="1,920"
-     height="1,080"
-     border="10" />
-</a>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/JMjc9d8ayYQ">
+</iframe>
+Current Classical Favourite
 
-[![Current BGM Favourite](http://img.youtube.com/vi/4hZJADhofuk?list=PLICBWC0C8RKUVPhueflBI4T3n_2GEjg32/0.jpg)
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/n88MReEC27k">
+</iframe>
+Current Orchestral Favourite
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/vB8NZLAZaRY">
+</iframe>
+Current Electronic Favourite
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/Mqeuvp0TsPs">
+</iframe>
+Current Rock Favourite
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/i_18_zIuNCo">
+</iframe>
+Current Jazz Favourite
 
 
  - [ ] ~~Creating music with instruments or code~~
