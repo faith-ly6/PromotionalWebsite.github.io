@@ -5,9 +5,10 @@ Comp Sci
 
 Who Am I
 
+Family and Group Ideas 
 ---
 
-**Family and Group Ideas**
+# **Family and Group Ideas** <h1>
 
  - [x] Nationality: Canadian
  - [x] Ethnicity: Vietnamese-Chinese
