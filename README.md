@@ -3,12 +3,13 @@ Comp Sci
 
 ---
 
-Who Am I
+# **Who Am I** <h1>
 
 Family and Group Ideas 
+
 ---
 
-# **Family and Group Ideas** <h1>
+## **Family and Group Ideas** <h2>
 
  - [x] Nationality: Canadian
  - [x] Ethnicity: Vietnamese-Chinese
@@ -28,7 +29,7 @@ Family and Group Ideas
 
 ---
 
-**Personal Ideas**
+### **Personal Ideas** <h3>
 
  - [x] Hobbies: Reading, Drawing
  - [ ] ~~Sports~~ 
@@ -57,7 +58,7 @@ Family and Group Ideas
 
  ---
 
-**Life at School Ideas**
+#### **Life at School Ideas** <h4>
 
  - [x] How are you involved at QE in clubs, teams, or groups?: Hanging out with friends, attending school events and classes
  - [x] How are you academic?: Attend school and study
