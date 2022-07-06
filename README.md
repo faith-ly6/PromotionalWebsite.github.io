@@ -1,4 +1,4 @@
-# Promotional Wh Am I Page
+# Promotional Who Am I Page
 Comp Sci
 
 ---
@@ -29,7 +29,7 @@ __Life At School Ideas__ https://github.com/faith-ly6/PromotionalWebsite.github.
  - [x] Culture & Customs: Conservative, Age and Experience Hierarchy, emphasis on Education 
  - [x] Religion & Customs: Bowing to respect, Filial Piety, Buddism
  - [ ] Cultural Food (i.e. images and videos): Dim sum, Pho, Moon Cakes, Spring Rolls, Onion Cakes
-    ![Dim Sum](optimized-image.jpeg)
+    ![Dim Sum](https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_bonappetit.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1638223938/bonappetit_handcrafted-handcrafted-dim-sum.jpg)
  - [x] Cultural Celebrations: Tết, Lunar New Year (lanterns, lion dances, dragons, firecrackers, feasts, red envelopes)
 
 ---
