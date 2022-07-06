@@ -146,3 +146,4 @@ Current Jazz Favourite
  - [x] Subjects you have high grades in: Social Studies, Chemistry, Mathematics, French Second Language, Cantonese 
  - [x] Subjects you enjoy "putting in extra effort": Chemistry, Math, Biology
  - [x] Subjects you find it 'natural' to remember "everything" recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas: French, Cantonese, Math, Biology, Chemistry
+ 
