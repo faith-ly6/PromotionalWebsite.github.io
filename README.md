@@ -5,7 +5,11 @@ Comp Sci
 
 # **Who Am I** <h1>
 
-Family and Group Ideas 
+Family and Group Ideas https://github.com/faith-ly6/PromotionalWebsite.github.io#family-and-group-ideas- 
+
+Personal Ideas https://github.com/faith-ly6/PromotionalWebsite.github.io#personal-ideas-
+
+Life At School Ideas https://github.com/faith-ly6/PromotionalWebsite.github.io#life-at-school-ideas-
 
 ---
 
