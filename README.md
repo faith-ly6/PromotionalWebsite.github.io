@@ -3,16 +3,6 @@ Comp Sci
 
 ---
 
-# **Who Am I**
-
-__Family and Group Ideas__ https://github.com/faith-ly6/PromotionalWebsite.github.io#family-and-group-ideas- 
-
-__Personal Ideas__ https://github.com/faith-ly6/PromotionalWebsite.github.io#personal-ideas-
-
-__Life At School Ideas__ https://github.com/faith-ly6/PromotionalWebsite.github.io#life-at-school-ideas-
-
----
-
 ## **Family and Group Ideas**
 
  - [x] Nationality: Canadian
